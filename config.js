@@ -43,7 +43,7 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "WOOOOW You got it!! 🚀💝",  // Shows when they go past 5000%
-        high: "Goddamn! 🚀💝",              // Shows when they go past 1000%
+        high: "Goddamn! Almost there... 🚀💝",              // Shows when they go past 1000%
         normal: "And beyond! ❤️❤️"                           // Shows when they go past 100%
     },
 
@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "Yay! I'm the luckiest man in the world! 🎉💝💖💝💓",
         message: "We will have a special date with great food. Save the date in case Francheska wants to do something else!",
-        emojis: "🎁💖🤗💝❤️"  // These will bounce around
+        emojis: "🎁💖💝❤️"  // These will bounce around
     },
 
     // Color scheme for the website
